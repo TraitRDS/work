@@ -42,8 +42,7 @@ object TemplateGenerator extends App {
 		week.days.foreach { day: LocalDate =>
 			writer.write(
 				s"""#### ${day.toString}
-					 |1.
-					 |2.
+					 |1.  \n2.  \n
 					 |""".stripMargin)
 		}
 		writer.close()
