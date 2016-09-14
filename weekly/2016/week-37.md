@@ -23,6 +23,7 @@
   - How to reload the dependencies of build.sbt
     1. Change the build.sbt file
     2. Force IDEA reload the change of build.sbt by press refresh button on the SBT sidebar(on the right side of IDEA)
+3. Clean the repositories
 
 #### 2016-09-15
 Mid-Autum Festival
