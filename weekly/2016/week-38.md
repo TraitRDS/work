@@ -4,8 +4,8 @@
 3. Verify #36
 
 #### 2016-09-20
-1.  
-2.  
+1. Issues about Model Viewer of EBTS
+2. JxBowser process did not close after use
 
 #### 2016-09-21
 1.  
