@@ -1,6 +1,7 @@
 #### 2016-09-19
-1.  
-2.  
+1. Blockchain
+2. One-One with Summer
+3. Verify #36
 
 #### 2016-09-20
 1.  
