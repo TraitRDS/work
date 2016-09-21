@@ -11,6 +11,7 @@
 1. [DSX video](https://ibm.6connex.com/event/BlueprintTalks/en-us/contents/61736/share?rid=home&nid=202229)
 2. [Scala JS](https://www.scala-js.org/)
   - [Tutorial](https://www.scala-js.org/tutorial/)
+  - [Scala Fiddle](https://scalafiddle.io/)
 
 #### 2016-09-22
 1.  
