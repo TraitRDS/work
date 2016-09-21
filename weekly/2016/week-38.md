@@ -8,8 +8,9 @@
 2. JxBowser process did not close after use
 
 #### 2016-09-21
-1.  
-2.  
+1. [DSX video](https://ibm.6connex.com/event/BlueprintTalks/en-us/contents/61736/share?rid=home&nid=202229)
+2. [Scala JS](https://www.scala-js.org/)
+  - [Tutorial](https://www.scala-js.org/tutorial/)
 
 #### 2016-09-22
 1.  
