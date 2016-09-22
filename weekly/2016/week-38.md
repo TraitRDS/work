@@ -14,8 +14,9 @@
   - [Scala Fiddle](https://scalafiddle.io/)
 
 #### 2016-09-22
-1.  
-2.  
+1. JFrog Artifactory
+  - Atrifactory OSS is used for build your own Binary Repository
+2. [APS Tech Talk - Customer Success with Dan Steinman, CCO @ Gainsight](https://w3-connections.ibm.com/blogs/apsengagement/entry/APS_Tech_Talk_Customer_Success_with_Dan_Steinman_CCO_Gainsight?lang=en_us)
 
 #### 2016-09-23
 1.  
