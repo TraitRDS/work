@@ -23,6 +23,28 @@
   - [Ember Twiddle](https://ember-twiddle.com/)
 
 #### 2016-09-23
-1.  
+1. Blockchain Security
+  - PKI体系
+    - 对称加密、非对称加密、Hash
+    - 签名
+    - 证书
+
+  - Block structure
+    - Parent Hash
+    - Merkle Hash
+
+  - 隐私性
+    - 定向加密（指定谁可以解密）
+
+  - 监管
+    - 两对秘钥-签名，加密
+    - E-cert
+    - T-cert 每次交易都生成一个证书
+
+  - 国密
+
+  - 安全护航
+
+
 2.  
 
