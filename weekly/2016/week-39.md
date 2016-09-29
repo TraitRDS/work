@@ -21,8 +21,10 @@
 4. TM1 private view issue
 
 #### 2016-09-29
-1.  
-2.  
+1. Jekins
+  - Slave mode : ssh or jekins slave agent(jar)
+2. Scala
+3. Ginni talk [here](https://www.youtube.com/watch?v=5eKRm-vJHq0)
 
 #### 2016-09-30
 1.  
